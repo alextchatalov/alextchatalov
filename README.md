@@ -2,8 +2,8 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on [**matera**](http://www.matera.com/)
-- 🌱 I’m currently learning **ReactJs**
+- 🔭 I’m currently working on [**CI&T**](https://br.ciandt.com/)
+- 🌱 I’m currently learning **Java**
 - :coffee: My favorite Language is **Java**
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=alextchatalov&count_private=true&show_icons=true&theme=great-gatsby)
