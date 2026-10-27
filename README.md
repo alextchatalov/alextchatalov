@@ -28,7 +28,7 @@ Engenheiro de software backend, atuo com **open banking** e **pagamentos** na Pi
 - 🏦 Working on open banking & payments systems at **PicPay**
 - 🌱 Currently sharpening **Kotlin, AWS, event-driven architectures**
 - 💬 Ask me about **Java, Spring Boot, Kafka, Clean Architecture**
-- 🛠️ Building **[Financial Vaulta](https://github.com/alextchatalov/financial-vaulta)** — a personal finance manager, solo full-stack project
+- 🛠️ Building **Financial Vaulta** — a personal finance manager, solo full-stack project (private repo)
 - 📫 Reach me at **alex_tr1992@hotmail.com**
 
 ---
@@ -60,13 +60,7 @@ Engenheiro de software backend, atuo com **open banking** e **pagamentos** na Pi
 
 ### 🚀 Featured Project
 
-<a href="https://github.com/alextchatalov/financial-vaulta">
-  <img align="left" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=alextchatalov&repo=financial-vaulta&theme=default&hide_border=true" />
-</a>
-
-**Financial Vaulta** — personal finance manager built from scratch as a monorepo: Spring Boot (Clean Architecture + CQRS) backend, React/TypeScript frontend and a Flutter mobile app. Transactions, budgets, investments and card invoices, end to end.
-
-<br clear="left"/>
+**Financial Vaulta** *(private repo)* — personal finance manager built from scratch as a monorepo: Spring Boot (Clean Architecture + CQRS) backend, React/TypeScript frontend and a Flutter mobile app. Transactions, budgets, investments and card invoices, end to end.
 
 ---
 
