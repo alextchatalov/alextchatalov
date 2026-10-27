@@ -1,28 +1,90 @@
-<h1 align="center">Hi 👋, I'm Alex</h1>
-<h3 align="center">I'am a backend developer</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=alextchatalov&label=Profile%20views&color=0e75b6&style=flat" alt="alextchatalov" /> </p>
+# Alex Travagin Chatalov
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alextchatalov" alt="alextchatalov" /></a> </p>
+### Senior Software Engineer @ PicPay 💜
 
-- 🔭 I’m currently working on [PicPay](https://picpay.com/)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=800&color=0E75B6&center=true&vCenter=true&width=600&lines=Backend+Engineer+%7C+Java+%26+Kotlin+%26+Spring;Building+fintech+at+scale+%40+PicPay;Open+banking+%E2%80%A2+Distributed+systems+%E2%80%A2+Clean+Architecture;Sempre+aprendendo+algo+novo+%F0%9F%9A%80" alt="Typing SVG" />
 
-- 🌱 I’m currently learning **Java, Kotlin, AWS**
+[![Website](https://img.shields.io/badge/chatalov.com-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.chatalov.com/pt)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/alex-travagin-chatalov-a6111a39)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alex_tr1992@hotmail.com)
+[![Location](https://img.shields.io/badge/Maring%C3%A1%2C_Paran%C3%A1-Brazil-009739?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
 
-- 💬 Ask me about **Java, Spring**
+<img src="https://komarev.com/ghpvc/?username=alextchatalov&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 
-- 📫 How to reach me **alex_tr1992@hotmail.com**
+</div>
 
-<h3 align="left">Connect with me:</h3>
+---
+
+### 🇺🇸 About me
+
+I'm a backend-focused software engineer working on **open banking** and **payments** infrastructure at PicPay, one of Brazil's largest fintechs. I care about clean architecture, distributed systems that don't fall over, and shipping things that actually work in production — not just on a whiteboard.
+
+### 🇧🇷 Sobre mim
+
+Engenheiro de software backend, atuo com **open banking** e **pagamentos** na PicPay, uma das maiores fintechs do Brasil. Gosto de arquitetura limpa, sistemas distribuídos que não caem e de entregar coisas que funcionam de verdade em produção — não só no quadro branco.
+
+- 🏦 Working on open banking & payments systems at **PicPay**
+- 🌱 Currently sharpening **Kotlin, AWS, event-driven architectures**
+- 💬 Ask me about **Java, Spring Boot, Kafka, Clean Architecture**
+- 🛠️ Building **[Financial Vaulta](https://github.com/alextchatalov/financial-vaulta)** — a personal finance manager, solo full-stack project
+- 📫 Reach me at **alex_tr1992@hotmail.com**
+
+---
+
+### 🧰 Tech Stack
+
 <p align="left">
-<a href="https://linkedin.com/in/alex-travagin-chatalov-a6111a39" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alex-travagin-chatalov-a6111a39" height="30" width="40" /></a>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+</p>
+<p align="left">
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+  <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" />
+</p>
+<p align="left">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=alextchatalov&show_icons=true&locale=en&layout=compact" alt="alextchatalov" /></p>
+### 🚀 Featured Project
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alextchatalov&show_icons=true&locale=en" alt="alextchatalov" /></p>
+<a href="https://github.com/alextchatalov/financial-vaulta">
+  <img align="left" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=alextchatalov&repo=financial-vaulta&theme=default&hide_border=true" />
+</a>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alextchatalov&" alt="alextchatalov" /></p>
+**Financial Vaulta** — personal finance manager built from scratch as a monorepo: Spring Boot (Clean Architecture + CQRS) backend, React/TypeScript frontend and a Flutter mobile app. Transactions, budgets, investments and card invoices, end to end.
+
+<br clear="left"/>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api?username=alextchatalov&show_icons=true&theme=default&hide_border=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=alextchatalov&layout=compact&theme=default&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alextchatalov&theme=default&hide_border=true" />
+</p>
+
+---
+
+<div align="center">
+
+**Let's connect** · [Website](https://www.chatalov.com/pt) · [LinkedIn](https://linkedin.com/in/alex-travagin-chatalov-a6111a39) · [Email](mailto:alex_tr1992@hotmail.com)
+
+</div>
