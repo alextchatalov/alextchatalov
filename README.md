@@ -6,7 +6,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=800&color=0E75B6&center=true&vCenter=true&width=600&lines=Backend+Engineer+%7C+Java+%26+Kotlin+%26+Spring;Building+fintech+at+scale+%40+PicPay;Open+banking+%E2%80%A2+Distributed+systems+%E2%80%A2+Clean+Architecture;Sempre+aprendendo+algo+novo+%F0%9F%9A%80" alt="Typing SVG" />
 
-[![Website](https://img.shields.io/badge/chatalov.com-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.chatalov.com/pt)
+[![Website](https://img.shields.io/badge/chatalov.com-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://chatalov.com/?utm_source=github)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/alex-travagin-chatalov-a6111a39)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alex_tr1992@hotmail.com)
 [![Location](https://img.shields.io/badge/Maring%C3%A1%2C_Paran%C3%A1-Brazil-009739?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
